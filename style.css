@@ -1,0 +1,23 @@
+#entire {
+	text-align: center;
+	width: 1000px;
+	background-color: orange;
+}
+
+.underline {
+	text-decoration: underline;
+}
+
+#image {
+	padding: 2px;
+	width: 45%;
+	margin: 20px;
+}
+
+#table-categories {
+	font-variant: small-caps;
+}
+
+body li {
+	text-align: left;
+}
